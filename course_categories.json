@@ -1,0 +1,27 @@
+[
+  {
+    "id": "01",
+    "name": "Front End"
+  },
+  {
+    "id": "02",
+    "name": "Back End"
+  },
+  {
+    "id": "03",
+    "name": "Mobile Application"
+  },
+  {
+    "id": "04",
+    "name": "Programming Languages"
+  },
+  {
+    "id": "05",
+    "name": "Software Engineering Courses"
+  },
+
+  {
+    "id": "06",
+    "name": "All Courses"
+  }
+]
