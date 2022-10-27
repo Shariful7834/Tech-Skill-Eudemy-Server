@@ -10,28 +10,28 @@ app.get("/", (req, res) => {
   res.send("server are running");
 });
 
-app.get("/course-categories", (req, res) => {
-  res.send(course_categories);
-});
+// app.get("/course-categories", (req, res) => {
+//   res.send(course_categories);
+// });
 
 app.get("/courses", (req, res) => {
   res.send(courses);
 });
 
+// app.get("/courses/:id", (req, res) => {
+//   const id = req.params.id;
+//   if (id === "06") {
+//     res.send(courses);
+//   } else {
+//     const category_course = courses.filter((n) => n.course_id === id);
+//     res.send(category_course);
+//   }
+// });
+
 app.get("/course/:id", (req, res) => {
   const id = req.params.id;
-  if (id === "06") {
-    res.send(courses);
-  } else {
-    const category_course = courses.filter((n) => n.course_id === id);
-    res.send(category_course);
-  }
-});
-
-app.get("/news/:id", (req, res) => {
-  const id = req.params.id;
-  const selectedNews = news.find((n) => n._id === id);
-  res.send(selectedNews);
+  const selectedCourse = courses.find((n) => n._id === id);
+  res.send(selectedCourse);
 });
 
 app.listen(port, () => {

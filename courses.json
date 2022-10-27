@@ -1,31 +1,20 @@
 [
   {
     "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
-
+    "price": "50",
     "course_id": "01",
     "rating": { "number": 4.5, "badge": "Excellent" },
     "total_sold": 488,
-    "course_title": "The Ultimate HTML5 & CSS3 Series",
+    "course_title": "The Ultimate HTML5 & CSS3 ",
 
     "image_url": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/INZsH6XtRIqQqxvYGP6Q",
     "details": "Everything you need to build fast and stunnig website with HTML5 and CSS3 in one bundle"
   },
-  {
-    "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
-
-    "course_id": "03",
-    "rating": { "number": 4.5, "badge": "Excellent" },
-    "total_sold": 488,
-    "course_title": "Xamarin Forms: Build Native Mobile Apps with C#",
-
-    "image_url": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/6AObeIZERZKoPv50GCTk",
-    "details": "Learnto build native moible apps for Android and iOS and windows using your existing C# skills"
-  },
 
   {
     "_id": "f69a695f037cd9484cecaea37ca71011",
-
-    "course_id": "01",
+    "price": "60",
+    "course_id": "02",
     "rating": { "number": 4.8, "badge": "Excellent" },
     "total_sold": 400,
     "course_title": "Mastering React",
@@ -34,8 +23,8 @@
   },
   {
     "_id": "f69a695f037cd9484cecaea37ca71012",
-
-    "course_id": "02",
+    "price": "65",
+    "course_id": "03",
     "rating": { "number": 4.3, "badge": "Excellent" },
     "total_sold": 400,
     "course_title": "The Ultimate Django Series",
@@ -45,8 +34,8 @@
 
   {
     "_id": "11468ed61aee84de492a8b04158a22f9",
-
-    "course_id": "03",
+    "price": "70",
+    "course_id": "04",
     "rating": { "number": 4.5, "badge": "Excellent" },
     "total_sold": 980,
     "course_title": "Learn Flatter Development",
@@ -55,34 +44,19 @@
   },
   {
     "_id": "11468ed61aee84de492a8b04158a22f0",
-    "others_info": {
-      "is_todays_pick": false,
-      "is_trending": false
-    },
-    "course_id": "01",
+    "price": "75",
+    "course_id": "05",
     "rating": { "number": 4.5, "badge": "Excellent" },
     "total_sold": 980,
-    "course_title": "The Ultimate JavaScript Series",
+    "course_title": "The Ultimate JavaScript ",
     "image_url": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/4JkBtVU9QUwcwFCWi3AV",
-    "details": "Master JavaScript: Go from Novice to Professinal. Everything you need to know about JavaScript.."
-  },
-
-  {
-    "_id": "2e78e5e0310c2e9adbb6efb1a263e745",
-
-    "course_id": "02",
-    "rating": { "number": 4.5, "badge": "Excellent" },
-    "total_sold": null,
-    "course_title": "The Complete Node.js Course",
-
-    "image_url": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/nlMKa4JeSBysXoj7pa90",
-    "details": "Learn to build high-scalable, fast and secure RESTful APIs with Node, Express, and MongoDb.."
+    "details": " Go from Novice to Professinal. Everything you need to know about JavaScript.."
   },
 
   {
     "_id": "a713ee936ff5574273f0f769f5c5b20e",
-
-    "course_id": "03",
+    "price": "20",
+    "course_id": "06",
     "rating": { "number": 4.5, "badge": "Excellent" },
     "total_sold": 111,
     "course_title": "Android Development 2022",
@@ -91,185 +65,35 @@
   },
 
   {
-    "_id": "e342b6c0c8efc8ca9e811991dc8a7900",
-    "course_id": "04",
-    "rating": { "number": 4.5, "badge": "Excellent" },
-    "total_sold": 733,
-    "course_title": "Complete Python Mastery",
-
-    "image_url": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/BFMMlbcQvml9HSqXcvNp",
-    "details": "Everything you need to program In Python In one course(includes 3 real-wordl projects)"
-  },
-  {
-    "_id": "e342b6c0c8efc8ca9e811991dc8a7901",
-
-    "course_id": "04",
-    "rating": { "number": 4.5, "badge": "Excellent" },
-    "total_sold": 733,
-    "course_title": "The Ultimate C# Mastery Series",
-
-    "image_url": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/Dk8I3q9CSNa8KkINL0yA",
-    "details": " Master C# - one of the world's most versatile programming language."
-  },
-
-  {
     "_id": "f06f8cc035b04bd1158e4198281915a3",
-
-    "course_id": "05",
+    "price": "15",
+    "course_id": "07",
     "rating": { "number": 4.5, "badge": "Excellent" },
     "total_sold": 127,
     "course_title": "The Ultimate Git Course",
 
-    "image_url": "https://i.ibb.co/H4p2t3V/unsplash-Eh-Tc-C9s-YXsw-6.png",
+    "image_url": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/tsmP4fdkSmKaiez6t2jl",
     "details": "Everything you need to know to use Git an amp: GitHub to work effectively as a team"
   },
-  {
-    "_id": "f06f8cc035b04bd1158e4198281915a4",
 
-    "course_id": "05",
-    "rating": { "number": 4.5, "badge": "Excellent" },
-    "total_sold": 127,
-    "course_title": "The Ultimate Data Structures & Algorithms BUndle",
-
-    "image_url": "https://i.ibb.co/vz5K0FB/unsplash-Eh-Tc-C9s-YXsw-10.png",
-    "details": " Ace your coding job interview. Learn to write better and faster code"
-  },
-
-  {
-    "_id": "cd2b53655737cc4077542baea9f8f75d",
-
-    "course_id": "02",
-    "rating": { "number": 4.5, "badge": "Excellent" },
-    "total_sold": 700,
-    "course_title": "The Ultimate C++ Series",
-    "image_url": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://cdn.filestackcontent.com/lkYCN9UvRNFaLzywghPu",
-    "details": "Master Modern C++: Go from Novice to Professinal. Everything you need to code in C++.."
-  },
-  {
-    "_id": "4e6092d54c18fbd89ad59e88a1e87fbb",
-    "others_info": {
-      "is_todays_pick": false,
-      "is_trending": false
-    },
-    "course_id": "07",
-    "rating": { "number": 4.5, "badge": "Excellent" },
-    "total_sold": 300,
-    "course_title": "Joe Biden announces $3B in new military aid to Ukraine",
-    "author": {
-      "name": "",
-      "published_date": "2022-08-24 22:30:00",
-      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
-    },
-    "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
-    "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
-    "details": "Washington, Aug 24 (Prensa Latina) President Joe Biden has announced he will allot nearly billion in military aid to Kyiv – the biggest US package so far since the beginning of the Russian military…"
-  },
   {
     "_id": "7c4dfea0fafddc813673282a428429b7",
-
-    "course_id": "01",
+    "price": "25",
+    "course_id": "08",
     "rating": { "number": 4.5, "badge": "Excellent" },
     "total_sold": 0,
     "course_title": "The Ultimate Redux Course",
     "image_url": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/cWlkfXnMQKepNeIaRItV",
-    "details": "Go from Novice to expert in 6 hours. Everything you need to build modern apps with Redux.."
+    "details": "Go from Novice to expert in 6 hours. Everything you need to build modern apps with Redux. "
   },
   {
-    "_id": "30af81e91ab3eafc0bcae0de62f55d5c",
-
-    "course_id": "01",
-    "rating": { "number": 4.5, "badge": "Excellent" },
-    "total_sold": 320,
-    "course_title": "The Ultimate HTML5 & CSS3 Series: Part 2",
-
-    "image_url": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/ynsADduKQGeKTKfeZAsA",
-    "details": "Learn to convert Photoshop design mockups into real websites"
-  },
-  {
-    "_id": "df11ff9feefc37613cc3a4486ce02151",
-
-    "course_id": "02",
-    "rating": { "number": 4.5, "badge": "Excellent" },
-    "total_sold": 552,
-    "course_title": "Complete SQL Mastery",
-
-    "image_url": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/RL4kFbu1SMiCIeLAtWX3",
-    "details": "Everyhing you need to design and query databases In one course"
-  },
-  {
-    "_id": "919db97c34e0778b387dd40cdfa08130",
-    "course_id": "01",
-    "rating": { "number": 4.5, "badge": "Excellent" },
-    "total_sold": 89,
-    "course_title": "The Ultimate TypeScript Course",
-
-    "image_url": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://file-uploads.teachablecdn.com/4c16c4adca0d401bb4295cfbda05ecf1/e1c0e6c521414dbfae2fe1ca931c2f8f",
-    "details": "Learn to make your JavaScript application to large scale..."
-  },
-
-  {
-    "_id": "be44c843d61859cc0b87cae85c55f9db",
-
-    "course_id": "01",
-    "rating": { "number": 4.5, "badge": "Excellent" },
-    "total_sold": 231,
-    "course_title": "Redux in Angular",
-    "image_url": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/sJCfo5xMRL6Blf9H6OSP",
-    "details": "Better mange the state of your Angular Apps, Improve their testability and use awesome..."
-  },
-  {
-    "_id": "1b03149c50f1bec662062d930bf46489",
-    "course_id": "02",
-    "rating": { "number": 4.5, "badge": "Excellent" },
-    "total_sold": 546,
-    "course_title": "C# Developer: Double Your Coding Speed",
-
-    "image_url": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/X4OE9qYnRKiaJYGO7Xyb",
-    "details": "Learnthe essential shortcuts and plug-Ins that help you write more code in less time."
-  },
-  {
-    "_id": "17d266b79d2fcd850cd4d983c3aeb95f",
-    "others_info": {
-      "is_todays_pick": false,
-      "is_trending": true
-    },
-    "course_id": "07",
-    "rating": { "number": 4.2, "badge": "Excellent" },
-    "total_sold": 354,
-    "course_title": "‘Self-obsessed liar’: Meghan mocked for Mandela story",
-    "author": {
-      "name": "Presstv",
-      "published_date": "2022-08-30 17:44:16",
-      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
-    },
-    "thumbnail_url": "https://i.ibb.co/j86wjDW/unsplash-Eh-Tc-C9s-YXsw-20.png",
-    "image_url": "https://i.ibb.co/hxG29nr/unsplash-Eh-Tc-C9s-YXsw-9.png",
-    "details": "Meghan Markle's Nelson Mandela story continues to unravel after the only South African cast member of 'The Lion King' said he was \"baffled\" by her suggestion that he told her his country had \"rejoiced\" when she married Prince Harry. The former Suits actress recalled an encounter she had at the 2019 London premiere of 'The Lion King' with an actor from South Africa who made a comparison to her wedding with Prince Harry and Nelson Mandela. “He looked at me, and he’s just like light. He said, ‘I just need you to know: When you married into this family, we rejoiced in the streets the same we did when Mandela was freed from prison,’” she said during an interview with The Cut. The Daily Mail revealed Dr John Kani, who claims he was the only South African actor in the film, said he did not attend the premiere and had never met the Duchess of Sussex. \"I have never met Meghan Markle,\" he told the MailOnline. \"This seems like something of a faux pas by her. I have I have never met the duchess at all. I am the only South African member of the cast and I did not attend the premiere in London. \"The only South African was me playing Rafiki. But I did not go to the opening in Leicester Square as I didn't have the time to do that. It just may be a mis-remembering on her side. \"It is baffling me.\" Nelson Mandela’s grandson said he was “surprised” when he heard Ms Markle compare her wedding with Prince Harry to his grandfather being freed from prison. He said it “cannot be equated to as the same\". The Duchess of Sussex was met with heavy criticism online after she told the story to The Cut. \"The damage her and her husband are doing to the Queen and the Royal Family is incalculable... these two hypocritical, self-obsessed liars are in the end going to be ignored,\" said Nigel Farage"
-  },
-  {
-    "_id": "61f9ce168f7b15aadecb1d1fc80c72f0",
-    "others_info": {
-      "is_todays_pick": false,
-      "is_trending": true
-    },
-    "course_id": "05",
-    "rating": { "number": 4.5, "badge": "Excellent" },
-
-    "total_sold": 100,
-    "course_title": "The Ultimate Design Patters",
-
-    "image_url": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/rPqIrBIbRZsdQhtoGnjp",
-    "details": "Behavioraldesing patters"
-  },
-  {
-    "_id": "61f9ce168f7b15aadecb1d1fc80c72f7",
-
-    "course_id": "04",
-    "rating": { "number": 4.5, "badge": "Excellent" },
-
-    "total_sold": 100,
-    "course_title": "“The Ultimate JavaScript Series",
-    "image_url": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/4JkBtVU9QUwcwFCWi3AV",
-    "details": "Master JavaScript: Go from Novice to Professinal. Everything you need to know about JavaScript language.."
+    "_id": "f69a695f037cd9484cecaea37ca71125",
+    "price": "13",
+    "course_id": "09",
+    "rating": { "number": 4.8, "badge": "Excellent" },
+    "total_sold": 400,
+    "course_title": "The Ultimate Docker Course",
+    "image_url": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/el6Vw2cNTxeTWzrUaxO7",
+    "details": "Everything you need to master Docker in one Clear, profound, consise, and practical course... "
   }
 ]
