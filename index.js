@@ -35,5 +35,5 @@ app.get("/course/:id", (req, res) => {
 });
 
 app.listen(port, () => {
-  console.log(`The apps are running on the port ${port}`);
+  console.log(`The Application are running on the port ${port}`);
 });
