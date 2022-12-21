@@ -7,7 +7,7 @@ const courses = require("./courses.json");
 
 app.use(cors());
 app.get("/", (req, res) => {
-  res.send("server are running");
+  res.send("Application server are running");
 });
 
 // app.get("/course-categories", (req, res) => {
